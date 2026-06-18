@@ -1,9 +1,9 @@
 # Router Configuration and Routing Protocols using Cisco Packet Tracer
 
 
-**Module:** Computer Networks
-**Student Name:** P.D.M. Gimhana
-**Student ID:** 39330
+* **Module:** Computer Networks
+* **Student Name:** P.D.M. Gimhana
+* **Student ID:** 39330
 
 ---
 
